@@ -1,0 +1,21 @@
+{
+  "name": "numbers-in-string",
+  "version": "1.0.0",
+  "description": "Extract numbers from a string.",
+  "main": "dist/numbers-in-string.js",
+  "scripts": {
+    "test": "npm run build && jest",
+    "build": "microbundle"
+  },
+  "keywords": [
+    "numbers",
+    "string",
+    "extract"
+  ],
+  "author": "Joaquim Neto <joaquimmy@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "microbundle": "^0.12.0-next.8"
+  }
+}
