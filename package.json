@@ -14,6 +14,10 @@
   ],
   "author": "Joaquim Neto <joaquimmy@yahoo.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquimnet/numbers-in-string"
+  },
   "devDependencies": {
     "jest": "^25.1.0",
     "microbundle": "^0.12.0-next.8"
