@@ -21,5 +21,6 @@
   "devDependencies": {
     "jest": "^25.1.0",
     "microbundle": "^0.12.0-next.8"
-  }
+  },
+  "types": "./dist/numbers-in-string.d.ts"
 }
