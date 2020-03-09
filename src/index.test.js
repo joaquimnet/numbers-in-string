@@ -1,5 +1,4 @@
-// const numbers = require('../dist/numbers-in-string');
-const numbers = require('../dist/numbers-in-string');
+const numbers = require('..');
 
 describe('>> number extraction', () => {
   test('should return an empty array for invalid inputs', () => {
